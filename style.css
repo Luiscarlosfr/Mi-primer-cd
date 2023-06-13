@@ -1,2 +1,11 @@
-.rojo{background-color: red;}
-#titulo segundo{font-size: large;}
+* {
+    padding: 0; 
+    margin: 0; 
+    box-sizing: border-box;}
+    .container-nav{background-color:#212125;
+    display: flex;
+flex-direction: column-gap: ;}
+
+.box {background-color: green;
+width: 100px;
+height: 48px;}
